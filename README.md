@@ -9,3 +9,4 @@ Produk ini dilengkapi dengan fitur penyimpanan kafe favorit, yang memungkinkan p
 Keunggulan utama **Surabaya Coffee** terletak pada fitur navigasi langsung, di mana pengguna tetap dapat memperoleh petunjuk arah menuju kafe tujuan tanpa bergantung pada aplikasi Google Maps.
 
 Dengan mengombinasikan peta persebaran kafe, penyimpanan lokasi favorit, serta navigasi , **Surabaya Coffee** bukan hanya berfungsi sebagai direktori coffee shop, tetapi juga sebagai teman eksplorasi yang mendukung gaya hidup produktif dan sosial anak muda Surabaya.
+
