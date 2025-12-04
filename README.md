@@ -10,6 +10,7 @@ Keunggulan utama **Surabaya Coffee** terletak pada fitur navigasi langsung, di m
 
 Dengan mengombinasikan peta persebaran kafe, penyimpanan lokasi favorit, serta navigasi , **Surabaya Coffee** bukan hanya berfungsi sebagai direktori coffee shop, tetapi juga sebagai teman eksplorasi yang mendukung gaya hidup produktif dan sosial anak muda Surabaya.
 
+
 ⚙️**Komponen Pembangun Produk**
 
 🎨 Frontend
