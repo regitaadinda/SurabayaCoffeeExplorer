@@ -10,3 +10,30 @@ Keunggulan utama **Surabaya Coffee** terletak pada fitur navigasi langsung, di m
 
 Dengan mengombinasikan peta persebaran kafe, penyimpanan lokasi favorit, serta navigasi , **Surabaya Coffee** bukan hanya berfungsi sebagai direktori coffee shop, tetapi juga sebagai teman eksplorasi yang mendukung gaya hidup produktif dan sosial anak muda Surabaya.
 
+⚙️**Komponen Pembangun Produk**
+
+🎨 Frontend
+| Teknologi           | Fungsi                       |
+| ------------------- | ---------------------------- |
+| React Native        | Pengembangan aplikasi mobile |
+| Expo                | Framework & tooling          |
+| Expo Router         | Navigasi tab & stack         |
+| lucide-react-native | Ikon antarmuka               |
+| Reusable Components | UI modular                   |
+
+🔧 Backend
+| Teknologi                  | Fungsi                    |
+| -------------------------- | ------------------------- |
+| Firebase Authentication    | Autentikasi pengguna      |
+| Firebase Realtime Database | Penyimpanan data pengguna |
+| `firebaseConfig.ts`        | Konfigurasi layanan       |
+
+📁 **Data**
+| Data                 | Keterangan              |
+| -------------------- | ----------------------- |
+| `cafe_surabaya.json` | Data lokasi café        |
+| `Surabaya.json`      | Batas wilayah Surabaya  |
+| JSON Lokal           | Mendukung akses offline |
+
+
+
