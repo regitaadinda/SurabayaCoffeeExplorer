@@ -13,7 +13,7 @@ Dengan mengombinasikan peta persebaran kafe, penyimpanan lokasi favorit, serta n
 
 ## ⚙️**Komponen Pembangun Produk**
 
-🎨 Frontend
+🎨 **Frontend**
 | Teknologi           | Fungsi                       |
 | ------------------- | ---------------------------- |
 | React Native        | Pengembangan aplikasi mobile |
@@ -22,14 +22,14 @@ Dengan mengombinasikan peta persebaran kafe, penyimpanan lokasi favorit, serta n
 | lucide-react-native | Ikon antarmuka               |
 | Reusable Components | UI modular                   |
 
-🔧 Backend
+🔧 **Backend**
 | Teknologi                  | Fungsi                    |
 | -------------------------- | ------------------------- |
 | Firebase Authentication    | Autentikasi pengguna      |
 | Firebase Realtime Database | Penyimpanan data pengguna |
 | `firebaseConfig.ts`        | Konfigurasi layanan       |
 
-🗺️ Peta & Geospasial
+🗺️ **Peta & Geospasial**
 | Teknologi            | Fungsi              |
 | -------------------- | ------------------- |
 | react-native-maps    | Peta interaktif     |
@@ -48,5 +48,9 @@ Dengan mengombinasikan peta persebaran kafe, penyimpanan lokasi favorit, serta n
 | `Surabaya.json`      | Batas wilayah Surabaya  |
 | JSON Lokal           | Mendukung akses offline |
 
+
+## 📸 **Tangkapan Layar Produk**
+
+![WhatsApp Image 2025-12-05 at 01 03 58_4a1fe11f](https://github.com/user-attachments/assets/a434af89-6256-48c4-99e2-0c6c0006a30e)
 
 
