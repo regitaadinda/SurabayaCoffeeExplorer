@@ -29,6 +29,18 @@ Dengan mengombinasikan peta persebaran kafe, penyimpanan lokasi favorit, serta n
 | Firebase Realtime Database | Penyimpanan data pengguna |
 | `firebaseConfig.ts`        | Konfigurasi layanan       |
 
+🗺️ Peta & Geospasial
+| Teknologi            | Fungsi              |
+| -------------------- | ------------------- |
+| react-native-maps    | Peta interaktif     |
+| Google Maps Provider | Basemap             |
+| GeoJSON              | Visualisasi wilayah |
+| Marker               | Titik lokasi café   |
+| Polyline             | Jalur navigasi      |
+| OSRM API             | Perhitungan rute    |
+| expo-location        | Lokasi pengguna     |
+
+
 📁 **Data**
 | Data                 | Keterangan              |
 | -------------------- | ----------------------- |
