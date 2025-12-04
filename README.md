@@ -51,6 +51,6 @@ Dengan mengombinasikan peta persebaran kafe, penyimpanan lokasi favorit, serta n
 
 ## 📸 **Tangkapan Layar Produk**
 
-![WhatsApp Image 2025-12-05 at 01 03 58_4a1fe11f](https://github.com/user-attachments/assets/a434af89-6256-48c4-99e2-0c6c0006a30e)
+[WhatsApp Image 2025-12-05 at 01 03 58_4a1fe11f](https://github.com/user-attachments/assets/a434af89-6256-48c4-99e2-0c6c0006a30e)
 
 
